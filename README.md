@@ -1,0 +1,2 @@
+# configServer
+git init
