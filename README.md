@@ -1,2 +1,1 @@
 # configServer
-git init
